@@ -1,5 +1,5 @@
 git add .
 git commit -m ""
-git
+git config --global user.email
 git config --global user.name
 git branch -m
