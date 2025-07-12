@@ -1,0 +1,3 @@
+Git es un programa que permite a varias personas manipular y contorolar un mismo software, 
+gracias a eso Git ayuda mucho a que los cambios que uno realiza no entre en conflicto con el resto 
+de programadores
